@@ -28,6 +28,7 @@ def circulate():
 ```
 
 ## Output:
-![output](112.png)
+![112](https://user-images.githubusercontent.com/121608770/212472819-125d3ea7-b6d5-46ec-aa94-aff6340dd73c.png)
+
 ## Result:
 by this program we able to circulate the values of n - variables
